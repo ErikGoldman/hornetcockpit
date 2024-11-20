@@ -1,0 +1,7 @@
+### Footprint positions - created on 2024-11-17T00:10:57-0500 ###
+### Printed by KiCad version 8.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val         Package                        PosX       PosY       Rot  Side
+U1        TCA9554PWR  TSSOP-16_4.4x5mm_P0.65mm    69.4898   -22.0117   90.0000  top
+## End

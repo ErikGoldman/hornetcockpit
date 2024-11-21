@@ -1,0 +1,36 @@
+DDI:
+2x rotary encoders, detent, no switch, 6mm diameter x 20mm flat shaft
+ -- $1.28/each on DigiKey https://www.digikey.com/en/products/filter/encoders/507?s=N4IgjCBcoGwJxVAYygMwIYBsDOBTANCAPZQDaIAzABwCsADAOx0gC6hADgC5QgDKnAJwCWAOwDmIAL6EATHSqIQKSBhwFiZEABYwcGhQRsQXHv2HiphA1sXLVeQiUjktMihRmGO3SH0GiJaRAaLRpbNCwHDWcQGRh4MBhWb1N-CyCqOCToJQi1R01qOhktZiMTXzMAqSCZTQEiTnQBAE8AAlwRJCIAE1wBVkkgA
+ -- $0.50/each on Aliexpress https://www.aliexpress.us/item/3256804721655912.html?spm=a2g0o.cart.0.0.4e3b38daRlzcUv&mp=1&gatewayAdapt=glo2usa
+
+1x rotary switch, three position, 3mm diameter x 20mm flat shaft
+ -- $33 each on DigiKey https://www.digikey.com/en/products/filter/rotary-switches/200?s=N4IgjCBcoKwCxyqAxlAZgQwDYGcCmANCAPZQDa4AzABwIwgC6RADgC5QgDKrATgJYA7AOYgAvkXj1oIVJEy5CJciEpwA7AE44ABkYt2kLr0EjxIeNSQz02fEVKQKAJifaNMAGx6QbDt37CYmZOyjzErBg8AJ4ABDgA7nysyAAWjKJAA
+ -- AliExpress forgoing the throw angle for $1.57 each https://www.aliexpress.us/item/3256806749667426.html?spm=a2g0o.cart.0.0.4cc138daCNxRRi&mp=1&gatewayAdapt=glo2usa
+
+20x buttons, 6x6x7.2mm square
+ -- https://www.aliexpress.us/item/3256805751476152.html?spm=a2g0o.order_list.order_list_main.29.2f951802tP0Y7a&gatewayAdapt=glo2usa
+
+Master arm:
+1x panel mount SPST push button, 6.5mm base, 3mm shaft round (KM1101RR02QE)
+-- $3 on DigiKey https://www.digikey.com/en/products/detail/c-k/KM1101RR02QE/484124
+
+1x switch s1al, conical bat
+ -- $19 everywhere! just use a SPST switch with an M12 base
+ -- $1.18 on AliExpress https://www.aliexpress.us/item/3256807335530736.html?spm=a2g0o.productlist.main.1.14042408DeE8YD&algo_pvid=144a9f7d-eef1-46b0-bca3-589466d7909b&algo_exp_id=144a9f7d-eef1-46b0-bca3-589466d7909b-0&pdp_npi=4%40dis%21USD%213.47%211.18%21%21%2125.01%218.53%21%402101eab017321524591827791ee37c%2112000041124014791%21sea%21US%212054727994%21X&curPageLogUid=SdJmj9KOQp8U&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+2x OmRon_B3F-1026 buttons
+  -- $10 for 100 https://www.aliexpress.us/item/3256806726559452.html?spm=a2g0o.order_list.order_list_main.23.5ea81802rKeQxi&gatewayAdapt=glo2usa
+
+UFC:
+3x 9mm rotary panel mount potentiometers (P0915N-FC20BR10K), 9mm, no switch, flat shaft, no detent, 30 degrees, 20mm shaft length
+  -- $2.60 each on DigiKey
+
+19x Omron_B3F-1026 switches
+  -- see above
+  
+2x PEC11R-4220F-S0012 encoder with switch. 6mm DIA x 20mm flat shaft
+   -- $0.20 each https://www.aliexpress.us/item/3256804721655912.html?spm=a2g0o.detail.0.0.4ab1iCGKiCGKNw&mp=1&gatewayAdapt=glo2usa
+
+UFC function panel:
+9x Omron_B3F-1026 switches
+  -- see above

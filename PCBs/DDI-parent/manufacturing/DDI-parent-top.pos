@@ -1,7 +1,13 @@
-### Footprint positions - created on 2024-11-17T00:10:57-0500 ###
+### Footprint positions - created on 2024-11-22T01:36:35-0500 ###
 ### Printed by KiCad version 8.0.6
 ## Unit = mm, Angle = deg.
 ## Side : top
 # Ref     Val         Package                        PosX       PosY       Rot  Side
-U1        TCA9554PWR  TSSOP-16_4.4x5mm_P0.65mm    69.4898   -22.0117   90.0000  top
+C1        0.1uF       C_0402_1005Metric           44.9508   -20.8406  -90.0000  top
+SW1       TL1240GQ    TL1240GQ                    35.2157   -19.4336    0.0000  top
+SW2       TL1240GQ    TL1240GQ                    55.5357   -19.4336    0.0000  top
+SW3       TL1240GQ    TL1240GQ                    75.8557   -19.4336    0.0000  top
+SW4       TL1240GQ    TL1240GQ                    96.1757   -19.4336    0.0000  top
+SW5       TL1240GQ    TL1240GQ                   116.4957   -19.4336    0.0000  top
+U1        TCA9554PWR  TSSOP-16_4.4x5mm_P0.65mm    49.1906   -20.9700   90.0000  top
 ## End

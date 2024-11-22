@@ -11,8 +11,11 @@ DDI:
  -- https://www.aliexpress.us/item/3256805751476152.html?spm=a2g0o.order_list.order_list_main.29.2f951802tP0Y7a&gatewayAdapt=glo2usa
 
 Master arm:
-1x panel mount SPST push button, 6.5mm base, 3mm shaft round (KM1101RR02QE)
+1x panel mount SPST push button, 6.7mm base, 3mm shaft round (KM1101RR02QE)
 -- $3 on DigiKey https://www.digikey.com/en/products/detail/c-k/KM1101RR02QE/484124
+-- $3.14 for 20 on AliExpress https://www.aliexpress.us/item/3256807596969239.html?spm=a2g0o.productlist.main.81.3a985f27TrTGvj&algo_pvid=0cf7c4e1-a069-4d1b-9bc5-6a75243082a5&algo_exp_id=0cf7c4e1-a069-4d1b-9bc5-6a75243082a5-40&pdp_npi=4%40dis%21USD%215.38%213.14%21%21%2138.79%2122.67%21%402101c5c317322020571621869e94ce%2112000042188994770%21sea%21US%212054727994%21X&curPageLogUid=OwWMSpBZuchm&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+Need a spring -- 
 
 1x switch s1al, conical bat
  -- $19 everywhere! just use a SPST switch with an M12 base
@@ -34,3 +37,27 @@ UFC:
 UFC function panel:
 9x Omron_B3F-1026 switches
   -- see above
+
+Jett Switch:
+1x 0.3" OD x 0.44 L compression spring
+ -- this is close and 10 for $1.43 (7mm OD x 15mm length) https://www.aliexpress.us/item/3256803598490670.html?spm=a2g0o.productlist.main.1.188152d5FS4G0A&algo_pvid=4bf1a6c5-28b6-4be9-9ac6-9e6005b93edf&algo_exp_id=4bf1a6c5-28b6-4be9-9ac6-9e6005b93edf-0&pdp_npi=4%40dis%21USD%211.96%211.96%21%21%2114.13%2114.13%21%402103209b17322027276456082e9389%2112000027159063250%21sea%21US%212054727994%21X&curPageLogUid=k5xEMqXE4ICz&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+Limit switch? Not sure why. I can just use a push button here
+
+SWITCH, ROTARY, 45 DEG, 5 POS, .25 FLAT SHAFT (50KS45-01-1-05N)
+  -- AliExpress forgoing the throw angle for $1.69 each https://www.aliexpress.us/item/3256806749667426.html?spm=a2g0o.cart.0.0.4cc138daCNxRRi&mp=1&gatewayAdapt=glo2usa
+
+Button box:
+Landing gear ON-OFF SPST switch
+Flaps three position switch
+Parking brake ON-OFF SPST switch
+
+Jett select switch
+Two or three misc buttons
+
+FLIR three position switch
+FLIR arm three position switch
+Eject button inside of flip cover (https://www.aliexpress.us/item/3256803964803748.html?spm=a2g0o.productlist.main.5.7e851a78b8BtZn&algo_pvid=ab306180-487d-44ad-919d-226e6d305759&algo_exp_id=ab306180-487d-44ad-919d-226e6d305759-2&pdp_npi=4%40dis%21USD%212.85%211.42%21%21%212.85%211.42%21%402103146f17322049215394411eec96%2112000028207065543%21sea%21US%212054727994%21X&curPageLogUid=fR7IEflxBj6d&utparam-url=scene%3Asearch%7Cquery_from%3A) and (https://www.aliexpress.us/item/2255800895415537.html?spm=a2g0o.cart.0.0.550738daEkWbxY&mp=1&gatewayAdapt=glo2usa)
+
+Lighting mode switch: three position rotary
+Radar mode: four position rotary

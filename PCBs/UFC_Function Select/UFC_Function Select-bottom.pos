@@ -1,0 +1,11 @@
+### Footprint positions - created on 2024-12-03T13:54:43-0500 ###
+### Printed by KiCad version 8.0.6
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val          Package                                      PosX       PosY       Rot  Side
+C1        100uF        CP_Elec_6.3x5.4                           32.0688     7.0000  -90.0000  bottom
+C2        .1uF         C_0603_1608Metric                         67.7750    10.3500  180.0000  bottom
+J1        TO_UFC       PinHeader_2x03_P2.54mm_Vertical           84.1000    10.1600  180.0000  bottom
+R4        10K          R_0603_1608Metric                         67.8000    11.9500    0.0000  bottom
+U1        PCA9555RGER  VQFN-24-1EP_4x4mm_P0.5mm_EP2.45x2.45mm    66.0248     6.6108  180.0000  bottom
+## End

@@ -1,0 +1,8 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D23,D4,D3,D27,D1,D26,D15,D20,D13,D10,D25,D7,D2,D24,D6,D16,D19,D11,D5,D21,D9,D8,D14,D22,D12,D28,D17,D18";"LED_WS2812B-2020_PLCC4_2.0x2.0mm";28;"WS2812B-2020";;;
+2;"SW7,SW4,SW3,SW2,SW1,SW6,SW5";"Omron_B3F-1026";7;"B3F-1026";;;
+3;"J1";"PinHeader_2x03_P2.54mm_Vertical";1;"TO UFC";;;
+4;"U1";"VQFN-24-1EP_4x4mm_P0.5mm_EP2.45x2.45mm";1;"PCA9555RGER";;;
+5;"C1";"CP_Elec_6.3x5.4";1;"100uF";;;
+6;"C2";"C_0603_1608Metric";1;".1uF";;;
+7;"R4";"R_0603_1608Metric";1;"10K";;;

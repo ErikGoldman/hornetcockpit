@@ -51,6 +51,10 @@
 
 Print one of everything in FilesToPrint. Let me know if you run into any trouble but otherwise just keep it organized since you'll have a lot of parts sitting around.
 
+We'll be replacing all of the imperial inserts and screws with metric ones since metric is way cheaper and easier to source. Take a look at "Assembly instructions" to see how everything fits together and use the similarly-sized metric insert and screw instead of whatever is listed there.
+
+There are backplates for the two DDIs, master arm panel, and UFC. Print those and they should line up next to each other. The desk clamps mount on the DDIs and on the master arm panel and allow you to screw into your desk. You may want to put some foam or something soft in the clamp to prevent scratching on your desk.
+
 ## PCBs
 
 NextPCB is crazy cheap. There should be NextPCB-compatible BOMs in the directories and the .zip files should be what PCBNext wants to give a quote and manufacture everything.

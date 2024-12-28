@@ -3171,7 +3171,7 @@
 				)
 			)
 		)
-		(property "Footprint" "KiCAD Libraries:TL1240GQ"
+		(property "Footprint" "Library:TL1240GQ"
 			(at 67.056 73.152 0)
 			(effects
 				(font
@@ -3271,7 +3271,7 @@
 				)
 			)
 		)
-		(property "Footprint" "KiCAD Libraries:TL1240GQ"
+		(property "Footprint" "Library:TL1240GQ"
 			(at 91.186 73.152 0)
 			(effects
 				(font
@@ -3371,7 +3371,7 @@
 				)
 			)
 		)
-		(property "Footprint" "KiCAD Libraries:TL1240GQ"
+		(property "Footprint" "Library:TL1240GQ"
 			(at 115.316 73.152 0)
 			(effects
 				(font
@@ -3471,7 +3471,7 @@
 				)
 			)
 		)
-		(property "Footprint" "KiCAD Libraries:TL1240GQ"
+		(property "Footprint" "Library:TL1240GQ"
 			(at 67.056 87.122 0)
 			(effects
 				(font
@@ -3831,7 +3831,7 @@
 				)
 			)
 		)
-		(property "Footprint" "KiCAD Libraries:TL1240GQ"
+		(property "Footprint" "Library:TL1240GQ"
 			(at 91.186 87.122 0)
 			(effects
 				(font

@@ -47,17 +47,25 @@ Limit switch? Not sure why. I can just use a push button here
 SWITCH, ROTARY, 45 DEG, 5 POS, .25 FLAT SHAFT (50KS45-01-1-05N)
   -- AliExpress forgoing the throw angle for $1.69 each https://www.aliexpress.us/item/3256806749667426.html?spm=a2g0o.cart.0.0.4cc138daCNxRRi&mp=1&gatewayAdapt=glo2usa
 
+
+
 Button box:
-Landing gear ON-OFF SPST switch
-Flaps three position switch
-Parking brake ON-OFF SPST switch
 
-Jett select switch
-Two or three misc buttons
-
-FLIR three position switch
-FLIR arm three position switch
 Eject button inside of flip cover (https://www.aliexpress.us/item/3256803964803748.html?spm=a2g0o.productlist.main.5.7e851a78b8BtZn&algo_pvid=ab306180-487d-44ad-919d-226e6d305759&algo_exp_id=ab306180-487d-44ad-919d-226e6d305759-2&pdp_npi=4%40dis%21USD%212.85%211.42%21%21%212.85%211.42%21%402103146f17322049215394411eec96%2112000028207065543%21sea%21US%212054727994%21X&curPageLogUid=fR7IEflxBj6d&utparam-url=scene%3Asearch%7Cquery_from%3A) and (https://www.aliexpress.us/item/2255800895415537.html?spm=a2g0o.cart.0.0.550738daEkWbxY&mp=1&gatewayAdapt=glo2usa)
 
 Lighting mode switch: three position rotary
 Radar mode: four position rotary
+
+Landing gear flat ON-OFF SPST switch
+Flaps three position switch
+Parking brake flat ON-OFF SPST switch
+
+Jett select switch: see above
+Two or three misc buttons
+
+FLIR three position switch
+FLIR arm three position switch
+
+IO expanders: https://www.aliexpress.us/item/3256805134736810.html?spm=a2g0o.productlist.main.1.313f6cefNnWyfp&algo_pvid=a21c14c9-2081-44c4-b4f3-96162e80b6d3&algo_exp_id=a21c14c9-2081-44c4-b4f3-96162e80b6d3-0&pdp_npi=4%40dis%21USD%215.63%215.63%21%21%215.63%215.63%21%40210308a417322068623337245e6454%2112000032619396340%21sea%21US%212054727994%21X&curPageLogUid=ZBgrSUF2t7wc&utparam-url=scene%3Asearch%7Cquery_from%3A
+
+Need two per box
